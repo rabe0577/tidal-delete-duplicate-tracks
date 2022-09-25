@@ -1,7 +1,7 @@
 # tidal-delete-duplicate-tracks
 An extension to yaronzz/Tidal media downloader that allows syncing and deleting old tracks from playlists.
 
-This is a little script to complement the [yaronzz / Tidal media downloader](https://github.com/yaronzz/Tidal-Media-Downloader), which allows you to sync playlists and delete tracks that are deleted on Tidal from your downloads as well.
+This is a little script to complement the [yaronzz / Tidal-Media-Downloader](https://github.com/yaronzz/Tidal-Media-Downloader), which allows you to sync playlists and delete tracks that are deleted on Tidal from your downloads as well.
 The script is programmed really shitty, but it does its job well. And for that it is enough.
 
 ## How it works
